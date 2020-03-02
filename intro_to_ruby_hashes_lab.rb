@@ -32,10 +32,7 @@ def monopoly_with_third_tier
       },
       :names => 
       {
-        :reading_railroads => {},
-        :pennsylvania_railroad => {},
-        :b_and_o_railroad => {},
-        :shortline => {},
+        :reading_railroads => {}
       }
     }
   # When you start writing the implementation for this method, copy the Hash
