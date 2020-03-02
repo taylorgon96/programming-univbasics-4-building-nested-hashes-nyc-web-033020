@@ -32,8 +32,8 @@ def monopoly_with_third_tier
       },
       :names => 
       {
-        :reading_railroads = {}
-        :pen
+        :reading_railroads => {}
+        :pennsylvania_railroad => {}
       }
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
