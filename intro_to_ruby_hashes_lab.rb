@@ -37,7 +37,8 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
       }
-      monopoly
+  }
+  monopoly
 end
 
 def monopoly_with_fourth_tier
