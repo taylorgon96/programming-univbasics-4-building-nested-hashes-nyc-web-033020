@@ -14,7 +14,8 @@ def monopoly_with_second_tier
       :pieces => 4
       :rent_in_dollars =>
       {
-        
+        :one_piece_owned => 25,
+        :two_pieces_owned => 50,
       }
     }
   # When you start writing the implementation for this method, copy the Hash
